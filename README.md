@@ -11,13 +11,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
 </a>
 <a href="https://aokiisei.vxni.ink" target="_blank">
-<img src="https://img.shields.io/badge/个人站点-aokiisei.vxni.ink-4A90D9?style=flat-square" alt="个人站点" />
+<img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9-aokiisei.vxni.ink-4A90D9?style=flat-square" alt="个人站点" />
 </a>
 <a href="mailto:lin_648@qq.com" target="_blank">
 <img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-lin__648%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ 邮箱" />
 </a>
 <a href="https://github.com/Aokiisei/-Mimi-/releases/latest" target="_blank">
-<img src="https://img.shields.io/github/v/release/Aokiisei/-Mimi-?style=flat-square&label=最新版本&color=2F7CF6" alt="最新版本" />
+<img src="https://img.shields.io/github/v/release/Aokiisei/-Mimi-?style=flat-square&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=2F7CF6" alt="最新版本" />
 </a>
 </p>
 
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/github/v/release/Aokiisei/-Mimi-?style=flat-square&label=Release&color=2F7CF6" alt="Release" />
 </a>
 <a href="https://github.com/Aokiisei/-Mimi-/releases/latest" target="_blank">
-<img src="https://img.shields.io/badge/APK-下载-3DDC84?style=flat-square&logo=android" alt="下载 APK" />
+<img src="https://img.shields.io/badge/APK-%E4%B8%8B%E8%BD%BD-3DDC84?style=flat-square&logo=android" alt="下载 APK" />
 </a>
 <a href="https://github.com/Aokiisei/-Mimi-/blob/main/LICENSE" target="_blank">
 <img src="https://img.shields.io/github/license/Aokiisei/-Mimi-?style=flat-square&label=License" alt="License" />
