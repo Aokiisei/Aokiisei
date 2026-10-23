@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
 </a>
 <a href="https://aokiisei.vxni.ink" target="_blank">
-<img src="https://img.shields.io/badge/个人站点-aokiisei.vxni.ink-4A90D9?style=flat-square&logo=vercel&logoColor=white" alt="个人站点" />
+<img src="https://img.shields.io/badge/个人站点-aokiisei.vxni.ink-4A90D9?style=flat-square" alt="个人站点" />
 </a>
 <a href="https://github.com/Aokiisei/-Mimi-/releases/latest" target="_blank">
-<img src="https://img.shields.io/badge/最新版本-3.2-2F7CF6?style=flat-square" alt="最新版本" />
+<img src="https://img.shields.io/github/v/release/Aokiisei/-Mimi-?style=flat-square&label=最新版本&color=2F7CF6" alt="最新版本" />
 </a>
 </p>
 
