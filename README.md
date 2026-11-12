@@ -7,8 +7,8 @@
 <p>武夷学院在读 · 写 Android 应用</p>
 
 <p>
-<a href="https://aokiisei.vxni.ink" target="_blank">
-<img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9-aokiisei.vxni.ink-4A90D9?style=flat-square" alt="个人站点" />
+<a href="https://aokiisei.xyz" target="_blank">
+<img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9-aokiisei.xyz-4A90D9?style=flat-square" alt="个人站点" />
 </a>
 <a href="mailto:lin_648@qq.com" target="_blank">
 <img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-lin__648%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ 邮箱" />
@@ -45,12 +45,15 @@
 <img src="https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 5.0+" />
 </p>
 
+> **旧版本已停止维护**：服务域名由 `aokiisei.vxni.ink` 更换为 `aokiisei.xyz`，旧域名停用后，**v3.4 及更早版本**的公告、反馈、检查更新等功能失效，也不会再自动提醒升级。请到 [Releases](https://github.com/Aokiisei/-Mimi-/releases/latest) 安装 3.5，覆盖安装即可。
+
 - **课程表** —— 按周次查看，支持「全部周次」，全屏一屏看完整周
 - **成绩查询** —— 分学期拉取，可展开每门课的构成
 - **上课提醒** —— 课前 10 分钟提醒课程与地点，每晚汇总明日课表
-- **校园公告** —— 汇总学校官网与 13 个二级学院公告
+- **校园公告 / 实时公交** —— 学校与 13 个二级学院公告、武夷山公交到站信息
+- **快递身份码** —— 淘宝、拼多多、京东、菜鸟取件码集中管理
 - **校园地图标注** —— 同学共同标注校园地点
-- **公交查询 / 日程管理 / 桌面小组件**
+- **日程管理 / 桌面小组件** —— 倒计日与提醒；主屏小组件支持 6 套配色与透明度调节
 
 安装包、更新日志和完整源码都在[仓库](https://github.com/Aokiisei/-Mimi-)里。
 
@@ -147,7 +150,7 @@ flowchart TD
 
 ## 联系
 
-- 站点：[aokiisei.vxni.ink](https://aokiisei.vxni.ink)
+- 站点：[aokiisei.xyz](https://aokiisei.xyz)
 - 邮箱：[lin_648@qq.com](mailto:lin_648@qq.com)
 - 项目：[Mimi 课表](https://github.com/Aokiisei/-Mimi-)
 
